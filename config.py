@@ -1,0 +1,11 @@
+# config.py
+
+APP_TITLE = "StellarStocks Predictor"
+APP_ICON = "📈"
+
+PRIMARY_COLOR = "#27ae60"
+SECONDARY_COLOR = "#2196f3"
+BACKGROUND_COLOR = "#16191c"
+TEXT_COLOR = "#b7d7ec"
+
+DEFAULT_TICKER = "AAPL"
